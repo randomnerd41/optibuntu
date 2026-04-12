@@ -71,11 +71,7 @@ made by: classiccatlinux (randomnerd41)
 this program may only boost performance
 by a tiny bit!
 
-other stuff i made:
 
-`
-[Visit GitHub](https://github.com/randomnerd41/PISTON)
-`
 
 
     
