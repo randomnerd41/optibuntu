@@ -68,6 +68,7 @@ else:
     exit()
     
 os.system("sudo apt install preload -y && echo 'vm.swappiness=10' | sudo tee -a /etc/sysctl.conf") 
+os.system("sudo apt update -y && sudo apt full-upgrade -y && sudo apt autoremove --purge && sudo apt install zram-tools")
 
 print("All done!")
 print("github: https://github.com/randomnerd41/optibuntu")
