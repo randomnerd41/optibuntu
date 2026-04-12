@@ -25,6 +25,33 @@ and apt to install other programs.
 programs used:
 preload
 
+# how to use
+download the .zip
+
+unzip it:
+
+```
+function test() {
+  console.log("This code will have a copy button to the right of it");
+}
+```
+
+find main.py
+
+and run it like this:
+
+```
+function test() {
+  console.log("This code will have a copy button to the right of it");
+}
+```
+
+if python is not installed
+then run this in a terminal to 
+install python3
+
+sudo apt install python
+
 **this program is in beta use at your own risk!**
 
 # info
