@@ -26,31 +26,41 @@ programs used:
 preload
 
 # how to use
-download the .zip
+1. download the .zip
 
-unzip it:
+2. open a terminal
 
-```
-function test() {
-  console.log("This code will have a copy button to the right of it");
-}
-```
-
-find main.py
-
-and run it like this:
+3. go to downloads:
 
 ```
-function test() {
-  console.log("This code will have a copy button to the right of it");
-}
+cd Downloads
+```
+
+4. unzip the downloaded file:
+
+```
+unzip .zip
+```
+
+5. go into the new folder:
+
+```
+cd
+```
+
+6. run the python file:
+
+```
+python3 
 ```
 
 if python is not installed
 then run this in a terminal to 
-install python3
+install it:
 
-sudo apt install python
+```
+sudo apt install python3 -y
+```
 
 **this program is in beta use at your own risk!**
 
