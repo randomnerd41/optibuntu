@@ -85,7 +85,9 @@ needed.
 
 # info
 verson 1.0
+
 made by: classiccatlinux (randomnerd41)
+
 python - linux (ubuntu) - FOSS 
 
 
