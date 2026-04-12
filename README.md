@@ -9,8 +9,6 @@ faster!
 
 **FOR UBUNTU OR UBUNTU BASED DISTROS ONLY!**
 
-***beta! - 1.0***
-
 **for non-gnome setups**
 if youre on a non-gnome
 based ubuntu distro then
@@ -78,10 +76,8 @@ to make the desktop run smoother, it will
 also use apt to remove stuff thats no longer
 needed.
 
-**this program is in beta use at your own risk!**
-
 # info
-verson 1.0_beta
+verson 1.0
 made by: classiccatlinux (randomnerd41)
 
 python - linux (ubuntu) - FOSS 
