@@ -29,10 +29,12 @@ preload
 # how to use
 
 1. download the .zip
+from here or use the google
+drive repo
 
-2. open a terminal
+3. open a terminal
 
-3. go to downloads:
+4. go to downloads:
 
 ```
 cd Downloads
@@ -65,6 +67,11 @@ install it:
 sudo apt install python3 -y
 ```
 
+# google drive repo
+***for all versons***
+
+https://drive.google.com/drive/folders/1euBOV6lnDR8V2UwrL6JoGTDS5gHgYfVx?usp=drive_link
+
 # how it works!
 
 first optibuntu will remove
@@ -79,7 +86,6 @@ needed.
 # info
 verson 1.0
 made by: classiccatlinux (randomnerd41)
-
 python - linux (ubuntu) - FOSS 
 
 
