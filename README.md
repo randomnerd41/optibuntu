@@ -8,6 +8,7 @@ faster!
 # note!
 
 **FOR UBUNTU OR UBUNTU BASED DISTROS ONLY!**
+
 ***beta! - 1.0***
 
 **for non-gnome setups**
