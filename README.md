@@ -3,16 +3,18 @@
 that makes ubuntu and ubuntu based systems
 faster!
 
-# verson 1.0_beta!
+<img width="128" height="128" alt="Your paragraph text" src="https://github.com/user-attachments/assets/d7d29ff0-ad76-4700-8b45-450487600216" />
 
 # READ THIS!
+
+**BETA!**
 
 **FOR UBUNTU OR UBUNTU BASED DISTROS ONLY!**
 
 if youre on a non-gnome
 based ubuntu distro then
-say no when the program will ask:
-disable animations? (y/n):.
+say "n" when the program will ask:
+disable animations? (y/n): .
     
 this program will disable snap!
 you will no longer be able to install
