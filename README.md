@@ -39,19 +39,19 @@ cd Downloads
 4. unzip the downloaded file:
 
 ```
-unzip .zip
+unzip optibuntu-main.zip
 ```
 
 5. go into the new folder:
 
 ```
-cd
+cd optibuntu-main
 ```
 
 6. run the python file:
 
 ```
-python3 
+python3 main.py
 ```
 
 if python is not installed
