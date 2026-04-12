@@ -68,6 +68,12 @@ else:
     exit()
     
 os.system("sudo apt install preload -y && echo 'vm.swappiness=10' | sudo tee -a /etc/sysctl.conf") 
-    
+
+print("All done!")
+print("github: https://github.com/randomnerd41/optibuntu")
+print("info: FOSS - made by classiccatlinux (randomnerd41) - python")
+time.sleep(4)
+os.system('clear')
+exit()
   
 
