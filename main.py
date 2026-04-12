@@ -2,6 +2,15 @@ import os
 import time
 import sys
 
+if sys.platform == "linux":
+    print("starting...")
+    time.sleep(2)
+    os.system('clear')
+else:
+    print("for ubuntu (linux) systems only!")
+    time.sleep(2)
+    exit()
+
 print("Welcome to optibuntu - a free and open soucre")
 print("program for ubuntu (and ubuntu based systems)")
 print("that makes your system faster!")
