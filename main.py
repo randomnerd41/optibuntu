@@ -2,6 +2,11 @@ import os
 import time
 import sys
 
+# info:
+# verson 1.0 - stable
+# FOSS - AGPL 3.0
+# made by classiccatlinux (randomnerd41)
+
 if sys.platform == "linux":
     print("starting...")
     time.sleep(2)
@@ -76,5 +81,3 @@ print("info: FOSS - made by classiccatlinux (randomnerd41) - python")
 time.sleep(4)
 os.system('clear')
 exit()
-  
-
