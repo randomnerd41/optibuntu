@@ -25,11 +25,14 @@ print("This program will remove snap!")
 print("And is for ubuntu based linux distros ONLY!")
 time.sleep(5)
 os.system('clear')
+
 in1 = input("start? (y/n): ")
+
 if in1 == "n":
     print("exiting...")
     time.sleep(1)
     exit()
+    
 elif in1 == "y":
     os.system("sudo systemctl disable snapd && sudo systemctl stop snapd")
     os.system("sudo apt purge snapd -y && rm -rf ~/snap")
