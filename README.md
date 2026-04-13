@@ -75,14 +75,19 @@ for a long time!
 
 # suported distros
 any ubuntu spin
+
 ubuntu LTS or the latest
+
 linux mint
+
 pop os
+
 debian
+
 and really any debian based 
-distro but ubuntu/spins/mint
+distro but ubuntu and spins
 will be the most stable and
-work this best with the program!
+work this best with this program!
 
 # for devs
 if you want to 
