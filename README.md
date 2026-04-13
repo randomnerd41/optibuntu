@@ -1,33 +1,47 @@
 # Optibuntu
 **A free and Open source program**
-that makes ubuntu and ubuntu based systems
-faster! 
+that makes ubuntu and ubuntu based systems faster
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white)
 
 <img width="144" height="144" alt="OB-logo.png" src="https://github.com/user-attachments/assets/072771d1-c231-4e6e-98c9-31511998d753" />
 
-# note!
+# please note:
 
 **For Ubuntu/debian Based distros only!**
+any ubuntu spin
+
+ubuntu LTS or the latest
+
+linux mint
+
+debian
+
+and really any debian based 
+distro but ubuntu and spins
+will be the most stable and
+work this best with this program.
 
 **for non-gnome setups**
 if youre on a non-gnome
-based ubuntu distro then
-say "n" when the program will ask:
-disable animations? (y/n): .
+distro then  when the program asks
+disable animations? (y/n) say 'n'
 
 **snap will be removed**    
 this program will disable snap!
-you will no longer be able to install
-programs with snap and programs
-installed with snap will not work.
-this program will also use sudo
-and apt to install other programs.
+anything installed with snap will
+be gone and snap wont work anymore.
+this also will break ubuntu-pros
+Live Patch.
 
-programs used:
-preload
-zram-tools
+**will use sudo and apt**
+apt will be used to clean-up
+and install the programs
+listed below:
 
-# how to use (deb)*
+{preload
+zram-tools}
+
+# how to use and install the deb
 
 1. download the .deb
 
@@ -61,36 +75,11 @@ sudo apt install python3 -y
 ```
 
 # updates?
-nope! you do not
-need to update OB
-once its installed!
-
-# suported distros
-any ubuntu spin
-
-ubuntu LTS or the latest
-
-linux mint
-
-pop os
-
-debian
-
-and really any debian based 
-distro but ubuntu and spins
-will be the most stable and
-work this best with this program!
-
-# for devs
-if you want to 
-take my program and remake 
-it how YOU think it should be,
-then just put a link to this 
-github repo in your README file.
-
-```
-https://github.com/randomnerd41/optibuntu/
-```
+no. you do
+not update OB,
+once the deb is installed
+when a new verson comes out
+simply do nothing.
 
 # how it works!
 
@@ -101,21 +90,12 @@ and bluetooth. OB will then ask
 if the user wants to disable animations
 to make the desktop run smoother, it will
 also use apt to remove stuff thats no longer
-needed.
+needed and clean-up
 
 # info
 
-*debs get updates slower
-then downloading the raw .zip file
-so when 1.1 or 2.0 comes out
-the deb might still be the same
-for a while!
-
-verson 1.1 or 1.0 if using the deb.
-
-made by: classiccatlinux (randomnerd41).
-
-python - linux (ubuntu) - FOSS.
+made by classiccatlinux (randomned41)
+FOSS - AGPL 3.0 - python 3.12
 
 
 
