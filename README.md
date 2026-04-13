@@ -1,13 +1,13 @@
 # Optibuntu
 **A free and Open source program**
 that makes ubuntu and ubuntu based systems
-faster!
+faster! 
 
 <img width="144" height="144" alt="OB-logo.png" src="https://github.com/user-attachments/assets/072771d1-c231-4e6e-98c9-31511998d753" />
 
 # note!
 
-**FOR UBUNTU OR UBUNTU BASED DISTROS ONLY!**
+**FOR UBUNTU AND UBUNTU BASED DISTROS ONLY!**
 
 **for non-gnome setups**
 if youre on a non-gnome
