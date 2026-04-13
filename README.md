@@ -4,7 +4,7 @@ that makes ubuntu and ubuntu based systems faster
 
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python)
 ![Github](https://img.shields.io/badge/github-repo-blue?logo=github)
-![Ubuntu Package Version](https://img.shields.io/ubuntu/v/:packageName)
+![Linux](https://img.shields.io/badge/linux_-ubuntu_-orange)
 
 
 
