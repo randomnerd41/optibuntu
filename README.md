@@ -72,6 +72,18 @@ with what your installed verson did
 but this will most likly not be out
 for a long time!
 
+
+# suported distros
+any ubuntu spin
+ubuntu LTS or the latest
+linux mint
+pop os
+debian
+and really any debian based 
+distro but ubuntu/spins/mint
+will be the most stable and
+work this best with the program!
+
 # for devs
 if you want to 
 take my program and remake 
