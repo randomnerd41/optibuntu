@@ -3,7 +3,7 @@ import time
 import sys
 
 # info:
-# verson 1.0 - stable
+# verson 1.1 - stable
 # FOSS - AGPL 3.0
 # made by classiccatlinux (randomnerd41)
 
@@ -12,19 +12,20 @@ if sys.platform == "linux":
     time.sleep(2)
     os.system('clear')
 else:
-    print("for ubuntu (linux) systems only!")
+    print("for ubuntu/debian based (linux) systems only!")
     time.sleep(2)
     exit()
 
-print("Welcome to optibuntu - a free and open soucre")
-print("program for ubuntu (and ubuntu based systems)")
+print("Welcome to optibuntu (1.1) - A free and open soucre")
+print("program for ubuntu and other debian based distros")
 print("that makes your system faster!")
-time.sleep(6)
+time.sleep(5)
 os.system('clear')
 print("Please read the README.md file!")
-print("This program will remove snap!")
-print("And is for ubuntu based linux distros ONLY!")
-time.sleep(5)
+print("This program will remove snap if its installed!")
+print("And is for debian based linux distros only,")
+print("but works best on ubuntu based.")
+time.sleep(6)
 os.system('clear')
 
 in1 = input("start? (y/n): ")
