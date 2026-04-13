@@ -39,11 +39,29 @@ zram-tools
 cd Downloads
 ```
 
-4. run the .deb:
+4. install the .deb:
 
 ```
 sudo apt install ./optibuntu_1.0.deb
 ```
+
+5. run the program:
+
+```
+OB-MAIN
+```
+
+# updates?
+nope! you do not
+need to update OB
+once its installed!
+
+i am planing an update tool
+that will only run whatever
+i added and only if it wont mess
+with what your installed verson did
+but this will most likly not be out
+for a long time!
 
 ***python not installed?***
 if python is not installed
