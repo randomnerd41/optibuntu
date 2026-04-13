@@ -65,14 +65,6 @@ nope! you do not
 need to update OB
 once its installed!
 
-i am planing an update tool
-that will only run whatever
-i added and only if it wont mess
-with what your installed verson did
-but this will most likly not be out
-for a long time!
-
-
 # suported distros
 any ubuntu spin
 
@@ -119,11 +111,11 @@ so when 1.1 or 2.0 comes out
 the deb might still be the same
 for a while!
 
-verson 1.0
+verson 1.1 or 1.0 if using the deb.
 
-made by: classiccatlinux (randomnerd41)
+made by: classiccatlinux (randomnerd41).
 
-python - linux (ubuntu) - FOSS 
+python - linux (ubuntu) - FOSS.
 
 
 
