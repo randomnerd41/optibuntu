@@ -13,18 +13,8 @@ that makes ubuntu and ubuntu based systems faster
 # please note:
 
 **For Ubuntu/debian Based distros only!**
-any ubuntu spin
 
-ubuntu LTS or the latest
-
-linux mint
-
-debian
-
-and really any debian based 
-distro but ubuntu and spins
-will be the most stable and
-work this best with this program.
+works best on ubuntu/spins
 
 **for non-gnome setups**
 if youre on a non-gnome
