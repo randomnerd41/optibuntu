@@ -38,7 +38,7 @@ preload
 cd Downloads
 ```
 
-5. run the .deb:
+4. run the .deb:
 
 ```
 sudo apt install ./optibuntu_1.0.deb
