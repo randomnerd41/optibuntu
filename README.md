@@ -1,6 +1,6 @@
 # Optibuntu
 **A free and Open source program**
-that makes ubuntu and ubuntu based systems faster
+that makes ubuntu/spins and debian based systems faster
 
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python)
 ![Github](https://img.shields.io/badge/github-repo-blue?logo=github)
