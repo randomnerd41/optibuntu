@@ -75,6 +75,26 @@ install it:
 sudo apt install python3 -y
 ```
 
+# how to run and install with the sh
+
+1. download the .sh file and main.py
+into the same folder
+
+2. open a terminal
+
+3. allow the .sh to run as
+an executeable:
+
+```
+chmod +x runme.sh
+```
+
+4. run the .sh file 
+
+```
+./runme.sh
+```
+
 # updates?
 no. you do
 not update OB,
