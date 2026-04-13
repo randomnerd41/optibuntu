@@ -7,7 +7,7 @@ faster!
 
 # note!
 
-**For Ubuntu/debian** ***linux*** **Based distros only!**
+**For Ubuntu/debian Based distros only!**
 
 **for non-gnome setups**
 if youre on a non-gnome
