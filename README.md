@@ -43,7 +43,7 @@ apt will be used to clean-up
 and install the programs
 listed below:
 
-{preload
+{preload,
 zram-tools}
 
 # how to use and install the deb
