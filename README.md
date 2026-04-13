@@ -51,6 +51,15 @@ sudo apt install ./optibuntu_1.0.deb
 OB-MAIN
 ```
 
+***python not installed?***
+if python is not installed
+then run this in a terminal to 
+install it:
+
+```
+sudo apt install python3 -y
+```
+
 # updates?
 nope! you do not
 need to update OB
@@ -62,15 +71,6 @@ i added and only if it wont mess
 with what your installed verson did
 but this will most likly not be out
 for a long time!
-
-***python not installed?***
-if python is not installed
-then run this in a terminal to 
-install it:
-
-```
-sudo apt install python3 -y
-```
 
 # for devs
 if you want to 
