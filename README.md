@@ -27,7 +27,7 @@ programs used:
 preload
 zram-tools
 
-# how to use
+# how to use (deb)*
 
 1. download the .deb
 
@@ -95,6 +95,13 @@ also use apt to remove stuff thats no longer
 needed.
 
 # info
+
+*debs get updates slower
+then downloading the raw .zip file
+so when 1.1 or 2.0 comes out
+the deb might still be the same
+for a while!
+
 verson 1.0
 
 made by: classiccatlinux (randomnerd41)
