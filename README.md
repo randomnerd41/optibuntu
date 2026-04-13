@@ -17,11 +17,13 @@ that makes ubuntu and ubuntu based systems faster
 works best on ubuntu/spins
 
 **for non-gnome setups**
+
 if youre on a non-gnome
 distro then  when the program asks
 disable animations? (y/n) say 'n'
 
-**snap will be removed**    
+**snap will be removed**  
+
 this program will disable snap!
 anything installed with snap will
 be gone and snap wont work anymore.
@@ -29,6 +31,7 @@ this also will break ubuntu-pros
 Live Patch.
 
 **will use sudo and apt**
+
 apt will be used to clean-up
 and install the programs
 listed below:
