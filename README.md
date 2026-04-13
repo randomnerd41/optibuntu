@@ -100,9 +100,13 @@ needed and clean-up
 # info
 
 made by classiccatlinux (randomned41)
+
 FOSS - AGPL 3.0 - python 3.12
 
-
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python)
+![Github](https://img.shields.io/badge/github-repo-blue?logo=github)
+![Linux](https://img.shields.io/badge/linux_-ubuntu_-orange?logo=ubuntu)
+![GitHub License](https://img.shields.io/github/license/randomnerd41/optibuntu)
 
 
     
