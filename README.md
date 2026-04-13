@@ -30,6 +30,7 @@ enter 'n'
 this program will disable snap!
 anything installed with snap will
 be gone and snap wont work anymore.
+
 **this also will break ubuntu-pros
 Live Patch.**
 
