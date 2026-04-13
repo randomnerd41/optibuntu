@@ -28,9 +28,7 @@ preload
 
 # how to use
 
-1. download the .zip
-from here or use the google
-drive repo
+1. download the .deb
 
 3. open a terminal
 
@@ -40,22 +38,10 @@ drive repo
 cd Downloads
 ```
 
-4. unzip the downloaded file:
+5. run the .deb:
 
 ```
-unzip optibuntu-main.zip
-```
-
-5. go into the new folder:
-
-```
-cd optibuntu-main
-```
-
-6. run the python file:
-
-```
-python3 main.py
+sudo apt install ./.deb
 ```
 
 ***python not installed?***
@@ -66,12 +52,6 @@ install it:
 ```
 sudo apt install python3 -y
 ```
-
-# google drive repo
-***for all versons***
-
-https://drive.google.com/drive/folders/1euBOV6lnDR8V2UwrL6JoGTDS5gHgYfVx?usp=drive_link
-
 # how it works!
 
 first optibuntu will remove
