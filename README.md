@@ -41,7 +41,7 @@ cd Downloads
 5. run the .deb:
 
 ```
-sudo apt install ./.deb
+sudo apt install ./optibuntu1.0.deb
 ```
 
 ***python not installed?***
