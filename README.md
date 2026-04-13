@@ -2,7 +2,7 @@
 **A free and Open source program**
 that makes ubuntu and ubuntu based systems faster
 
-![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?)
 ![Github](https://img.shields.io/badge/github-repo-blue?logo=github)
 
 <img width="144" height="144" alt="OB-logo.png" src="https://github.com/user-attachments/assets/072771d1-c231-4e6e-98c9-31511998d753" />
