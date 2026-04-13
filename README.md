@@ -25,6 +25,7 @@ and apt to install other programs.
 
 programs used:
 preload
+zram-tools
 
 # how to use
 
@@ -52,6 +53,18 @@ install it:
 ```
 sudo apt install python3 -y
 ```
+
+# for devs
+if you want to 
+take my program and remake 
+it how YOU think it should be
+then just put a link to this 
+github repo!
+
+```
+https://github.com/randomnerd41/optibuntu/
+```
+
 # how it works!
 
 first optibuntu will remove
