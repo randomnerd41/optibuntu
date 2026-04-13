@@ -57,9 +57,9 @@ sudo apt install python3 -y
 # for devs
 if you want to 
 take my program and remake 
-it how YOU think it should be
+it how YOU think it should be,
 then just put a link to this 
-github repo!
+github repo in your README file.
 
 ```
 https://github.com/randomnerd41/optibuntu/
