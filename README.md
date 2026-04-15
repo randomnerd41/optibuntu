@@ -47,10 +47,10 @@ Optibuntu 1.1_stable
 Optibuntu 1.0_stable
 Optibuntu 1.0_alpha
 
-# how to use and install the deb.
+# how to use and install with deb.
 **deb is out of date! please use sh**
 
-1. download the .deb
+1. download ***just*** the .deb
 
 3. open a terminal
 
@@ -81,15 +81,16 @@ install it:
 sudo apt install python3 -y
 ```
 
-# how to run and install with the sh.
+# how to run and install with sh.
 **the sh is up-to-date 100% of the time!**
 
 1. download the .sh file and main.py
-into the same folder
+into the same folder or clone and unzip
+the whole repo.
 
-2. open a terminal
+3. open a terminal
 
-3. allow the .sh to run as
+4. allow the .sh to run as
 an executeable:
 
 ```
