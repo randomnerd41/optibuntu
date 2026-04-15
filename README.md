@@ -41,6 +41,12 @@ listed below:
 {preload,
 zram-tools}
 
+# OptiBuntu is on verson: 1.2_stable
+old:
+Optibuntu 1.1_stable
+Optibuntu 1.0_stable
+Optibuntu 1.0_alpha
+
 # how to use and install the deb.
 **deb is out of date! please use sh**
 
