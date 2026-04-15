@@ -49,7 +49,7 @@ Optibuntu 1.0_stable
 Optibuntu 1.0_alpha
 
 # how to use and install with deb.
-**deb is out of date! please use sh**
+**deb is out of date! please use sh.**
 
 1. download ***just*** the .deb
 
