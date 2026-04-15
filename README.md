@@ -14,8 +14,6 @@ that makes ubuntu/spins and debian based systems faster
 
 **For Ubuntu/debian Based distros only!**
 
-works best on ubuntu/spins
-
 **for non-gnome setups**
 
 if youre on a non-gnome
@@ -43,7 +41,8 @@ listed below:
 {preload,
 zram-tools}
 
-# how to use and install the deb
+# how to use and install the deb.
+**deb is out of date! please use sh**
 
 1. download the .deb
 
@@ -76,7 +75,8 @@ install it:
 sudo apt install python3 -y
 ```
 
-# how to run and install with the sh
+# how to run and install with the sh.
+**the sh is up-to-date 100% of the time!**
 
 1. download the .sh file and main.py
 into the same folder
@@ -96,35 +96,11 @@ chmod +x runme.sh
 ./runme.sh
 ```
 
-# updates?
-no. you do
-not update OB,
-once the deb is installed
-
-when a new verson comes out
-simply do nothing.
-
-# how it works!
-
-first optibuntu will remove
-snap, then it will ask if
-the user wants to disable printing
-and bluetooth. OB will then ask
-if the user wants to disable animations
-to make the desktop run smoother, it will
-also use apt to remove stuff thats no longer
-needed and clean-up
-
 # info
 
 made by classiccatlinux (randomned41)
 
 FOSS - AGPL 3.0 - python 3.12
-
-![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python)
-![Github](https://img.shields.io/badge/github-repo-blue?logo=github)
-![Linux](https://img.shields.io/badge/linux_-ubuntu_-orange?logo=ubuntu)
-![GitHub License](https://img.shields.io/github/license/randomnerd41/optibuntu)
 
 
     
