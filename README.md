@@ -15,16 +15,16 @@ systems faster
 
 **For Ubuntu/debian Based distros only!**
 
-**for non-gnome setups**
+**for non-gnome setups:**
 
 if youre on a non-gnome
 
-distro then  when the program asks
+distro then when the program asks:
 
 disable animations? (y/n) 
 enter 'n'
 
-**snap will be removed**  
+**snap will be removed:**  
 
 this program will disable snap!
 anything installed with snap will
@@ -39,17 +39,7 @@ apt will be used to clean-up
 and install the programs
 listed below:
 
-{preload,
-zram-tools}
-
-# OptiBuntu is on verson: 1.2_stable
-old:
-
-Optibuntu 1.1_stable
-
-Optibuntu 1.0_stable
-
-Optibuntu 1.0_alpha
+{preload, zram-tools}
 
 # how to use and install with deb.
 **deb is out of date! please use sh.**
