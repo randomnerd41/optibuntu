@@ -17,7 +17,7 @@ else:
     time.sleep(2)
     exit()
 
-print("Welcome to optibuntu - A free and open soucre")
+print("Welcome to optibuntu - A free and open source")
 print("program for Debian/Ubuntu that")
 print("makes your system faster.")
 time.sleep(4)
@@ -63,6 +63,7 @@ else:
 in3 = input("would you like to disable animations? (FOR GNOME DESKTOP ONLY!) (y/n): ")
 
 if in3 == "y":
+    os.system('clear')
     os.system("gsettings set org.gnome.desktop.interface enable-animations false")
     
 elif in3 == "n":
@@ -77,7 +78,7 @@ else:
 
 os.system("clear")
 os.system("sudo apt install preload -y && echo 'vm.swappiness=10' | sudo tee -a /etc/sysctl.conf") 
-os.system("sudo apt update -y && sudo apt full-upgrade -y && sudo apt autoremove -y && sudo apt install zram-tools -y")
+os.system("sudo apt update -y && sudo apt full-upgrade -y && sudo apt autoremove -y && sudo apt install zram-tools -y && echo -e "ALGO=zstd\nPERCENT=50" | sudo tee /etc/default/zramswap > /dev/null && sudo systemctl restart zramswap")
 os.system("clear")
 
 print("All done!")
