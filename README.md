@@ -12,10 +12,15 @@ systems faster
 <img width="144" height="144" alt="OB-logo.png" src="https://github.com/user-attachments/assets/072771d1-c231-4e6e-98c9-31511998d753" />
 
 # Versons made:
+
 1.0_alpha
+
 1.0 - stable
+
 1.1 - stable
+
 1.2 - stable
+
 **1.3 - stable**
 
 # Note!:
