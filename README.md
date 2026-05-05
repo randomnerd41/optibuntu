@@ -11,7 +11,7 @@ systems faster
 
 <img width="144" height="144" alt="OB-logo.png" src="https://github.com/user-attachments/assets/072771d1-c231-4e6e-98c9-31511998d753" />
 
-# Versons made:
+# Versions made:
 
 1.0_alpha
 
