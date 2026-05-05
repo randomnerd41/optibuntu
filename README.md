@@ -51,23 +51,22 @@ listed below:
 
 1. Download the .sh file and main.py
 into the same folder or clone and unzip
-the whole repo. Next go to your Downloads
-folder or where-ever you downloaded the files:
+the whole repo. Next open a terminal then
+go to your Downloads folder or where-ever
+you downloaded the files:
 
 ```
 cd Downloads
 ```
 
-2. open a terminal
-
-3. allow the .sh to run as
+2. allow the .sh to run as
 an executeable:
 
 ```
 chmod +x runme.sh
 ```
 
-4. run the .sh file 
+3. run the .sh file 
 
 ```
 ./runme.sh
