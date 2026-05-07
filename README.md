@@ -25,6 +25,7 @@ systems faster
 **For Ubuntu/debian Based distros only!**
 
 ////////////////////////////////////////////////
+
 **For non-gnome setups:**
 
 when the program asks:
@@ -34,11 +35,13 @@ when the program asks:
 Enter: '**no**'
 
 ////////////////////////////////////////////////
+
 **will use sudo and apt:**
 Some users do not like programs
 using sudo and apt.
 
 ////////////////////////////////////////////////
+
 # How to run and install.
 
 1. Download the .sh file and main.py
