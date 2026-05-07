@@ -19,8 +19,11 @@ systems faster
 **harm done too your PC or**
 
 **any files lost!**
+
 ////////////////////////////////////////////////
+
 **For Ubuntu/debian Based distros only!**
+
 ////////////////////////////////////////////////
 **For non-gnome setups:**
 
@@ -29,10 +32,12 @@ when the program asks:
 **Would you like to turn off gnomes animations?**
 
 Enter: '**no**'
+
 ////////////////////////////////////////////////
 **will use sudo and apt:**
 Some users do not like programs
 using sudo and apt.
+
 ////////////////////////////////////////////////
 # How to run and install.
 
