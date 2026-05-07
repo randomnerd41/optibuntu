@@ -2,7 +2,6 @@
 **A free and Open source program**
 
 that makes debian based 
-
 systems faster
 
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python)
