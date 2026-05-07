@@ -1,6 +1,8 @@
 # Optibuntu
 **A free and Open source program**
+
 that makes debian based 
+
 systems faster
 
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python)
@@ -11,52 +13,42 @@ systems faster
 
 <img width="144" height="144" alt="OB-logo.png" src="https://github.com/user-attachments/assets/072771d1-c231-4e6e-98c9-31511998d753" />
 
-# Versions made:
-
-1.0_alpha
-
-1.0 - stable
-
-1.1 - stable
-
-1.2 - stable
-
-**1.3 - stable**
-
 # Note!:
 
-**I am not at fault for any
-harm done too your PC or
-any files lost!**
+**I am not at fault for any**
 
+**harm done too your PC or**
+
+**any files lost!**
+////////////////////////////////////////////////
 **For Ubuntu/debian Based distros only!**
-
+////////////////////////////////////////////////
 **For non-gnome setups:**
 
 when the program asks:
 
-**disable animations? (y/n)**
+**Would you like to turn off gnomes animations?**
 
-Enter: 'n'
-
+Enter: '**no**'
+////////////////////////////////////////////////
 **will use sudo and apt:**
-
-apt will be used to clean-up,
-and install the programs
-listed below:
-
-{preload, zram-tools}
-
+Some users do not like programs
+using sudo and apt.
+////////////////////////////////////////////////
 # How to run and install.
 
 1. Download the .sh file and main.py
 into the same folder or clone and unzip
-the whole repo. Next open a terminal then
+the whole repo, Next open a terminal then
 go to your Downloads folder or where-ever
 you downloaded the files:
 
 ```
 cd Downloads
+```
+
+```
+cd optibuntu
 ```
 
 2. allow the .sh to run as
@@ -71,16 +63,3 @@ chmod +x runme.sh
 ```
 ./runme.sh
 ```
-
-# info
-
-**I am not at fault for any
-harm done too your PC or
-any files lost!**
-
-Made by classiccatlinux (randomned41)
-
-FOSS - AGPL 3.0 - python 3.12
-
-
-    
