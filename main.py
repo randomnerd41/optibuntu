@@ -4,7 +4,7 @@ import sys
 import shutil
 
 # info:
-# Version 1.0_beta
+# Version 1.0
 # FOSS - AGPL 3.0 
 # made by classiccatlinux (randomnerd41).
 
@@ -32,7 +32,11 @@ elif in1 == "y":
     print("starting...")
     time.sleep(1)
     os.system('clear')
-
+else:
+    print("Not a command at this time!")
+    time.sleep(2)
+    os.system('clear')
+    
 # Snap
 print("== Snap ==")   
 print("options:")
