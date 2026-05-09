@@ -1,7 +1,8 @@
 # Optibuntu
-**A free and Open source program**
+*A free and Open source program
 
 that makes Ubuntu/Debian based 
+
 linux systems faster
 
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python)
@@ -12,7 +13,7 @@ linux systems faster
 
 <img width="144" height="144" alt="OB-logo.png" src="https://github.com/user-attachments/assets/072771d1-c231-4e6e-98c9-31511998d753" />
 
-# Version 1.1
+# Version 1.2
 To find older versions
 
 go to the "old" branch.
@@ -28,24 +29,7 @@ go to the "old" branch.
 ////////////////////////////////////////////////
 
 **For Ubuntu/debian Based distros only!**
-
-////////////////////////////////////////////////
-
-**For non-gnome setups:**
-
-when the program asks:
-
-**Would you like to turn off gnomes animations?**
-
-Enter: '**no**'
-
-////////////////////////////////////////////////
-
-**will use sudo and apt:**
-
-Some users do not like programs
-
-using sudo and apt.
+**Non-systemd systems are not fully suported!**
 
 ////////////////////////////////////////////////
 
@@ -72,8 +56,11 @@ an executeable:
 chmod +x runme.sh
 ```
 
-3. run the .sh file 
+3. run the .sh file:
 
 ```
 ./runme.sh
 ```
+# info
+FOSS - AGPL 3.0
+made by classiccatlinux (or randomnerd41 on github)
