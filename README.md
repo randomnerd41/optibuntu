@@ -11,7 +11,7 @@ linux systems faster
 
 <img width="144" height="144" alt="OB-logo.png" src="https://github.com/user-attachments/assets/072771d1-c231-4e6e-98c9-31511998d753" />
 
-# Version 1.2_build1
+# Version 1.2
 To find older versions
 
 go to the "old" branch.
