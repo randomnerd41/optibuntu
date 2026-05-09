@@ -3,18 +3,28 @@ import time
 import sys
 import shutil
 
+# =============
+#   Optibuntu
+# =============
+
 # info:
-# Version 1.0
+# Version 1.1
 # FOSS - AGPL 3.0 
 # made by classiccatlinux (randomnerd41).
 
 # OS check
 if sys.platform == "linux":
-    print("welcome...")
-    time.sleep(2)
-    os.system('clear')
+     if shutil.which("apt"):
+         print("Welcome...")
+         time.sleep(1)
+         os.system("clear")
+    else:
+        print("You are not on a Debian based linux system!")
+        time.sleep(2)
+        os.system("clear")
+        exit()    
 else:
-    print("for ubuntu/debian based (linux) systems only!")
+    print("For linux systems only!")
     time.sleep(2)
     exit()
 
@@ -83,10 +93,15 @@ print("///////////////////")
 in2 = input("yes or no: ")
 
 if in2 == "yes":
-    os.system("sudo systemctl disable bluetooth && sudo systemctl disable cups")
-    time.sleep(3)
-    os.system('clear')
-    
+    if shutil.which("systemctl"):
+        os.system("sudo systemctl disable bluetooth && sudo systemctl disable cups && sudo apt remove bluez blueman -y")
+        os.system("clear")
+    else:
+        print("Systemd not detected, unable to disable bluetooth/printing.")
+        print("You are most likely on Devuan linux witch Optibuntu does not fully suport...")
+        time.sleep(5)
+        os.system("clear")
+
 elif in2 == "no":
     print("Will not disable bluetooth and printing.")
     time.sleep(2)
