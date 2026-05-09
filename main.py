@@ -15,14 +15,14 @@ import shutil
 # OS check
 if sys.platform == "linux":
      if shutil.which("apt"):
-         print("Welcome...")
-         time.sleep(1)
-         os.system("clear")
+          print("Welcome...")
+          time.sleep(1)
+          os.system("clear")
     else:
         print("You are not on a Debian based linux system!")
         time.sleep(2)
         os.system("clear")
-        exit()    
+        exit()   
 else:
     print("For linux systems only!")
     time.sleep(2)
