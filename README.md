@@ -10,7 +10,6 @@ linux systems faster
 ![Linux](https://img.shields.io/badge/linux_-ubuntu_-orange?logo=ubuntu)
 ![GitHub License](https://img.shields.io/github/license/randomnerd41/optibuntu)
 
-
 <img width="144" height="144" alt="OB-logo.png" src="https://github.com/user-attachments/assets/072771d1-c231-4e6e-98c9-31511998d753" />
 
 # Version 1.2
