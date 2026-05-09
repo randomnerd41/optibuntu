@@ -1,8 +1,8 @@
 # Optibuntu
 **A free and Open source program**
 
-that makes debian based 
-systems faster
+that makes Ubuntu/Debian based 
+linux systems faster
 
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python)
 ![Github](https://img.shields.io/badge/github-repo-blue?logo=github)
@@ -11,6 +11,11 @@ systems faster
 
 
 <img width="144" height="144" alt="OB-logo.png" src="https://github.com/user-attachments/assets/072771d1-c231-4e6e-98c9-31511998d753" />
+
+# Version 1.1
+To find older versions
+
+go to the "old" branch.
 
 # Note!:
 
@@ -37,7 +42,9 @@ Enter: '**no**'
 ////////////////////////////////////////////////
 
 **will use sudo and apt:**
+
 Some users do not like programs
+
 using sudo and apt.
 
 ////////////////////////////////////////////////
