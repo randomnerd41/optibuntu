@@ -1,5 +1,5 @@
 # Optibuntu
-*A free and Open source program
+A free and Open source program
 
 that makes Ubuntu/Debian based 
 
@@ -14,7 +14,7 @@ linux systems faster
 # Version 1.2
 To find older versions
 
-go to the "old" branch.
+go to the "other" branch.
 
 # Note!:
 
