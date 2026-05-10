@@ -8,12 +8,12 @@ import shutil
 # =============
 
 # info:
-# Version 1.2
+# Version 1.3
 # FOSS - AGPL 3.0 
 # made by classiccatlinux (randomnerd41).
 
 # == config ==
-os_check = False
+os_check = True
 
 # OS check
 if os_check:
@@ -34,13 +34,14 @@ if os_check:
 
 # Start
 print("===============")
-print("== Optibuntu == ")
+print("== Optibuntu ==")
 print("===============")
+print("v1.3 - classiccatlinux")
 in1 = input("start? (y/n): ")
 os.system('clear')
 
 if in1 == "n":
-    print("exiting...")
+    print("Exiting...")
     time.sleep(1)
     exit()
 
@@ -79,6 +80,7 @@ elif inS == "2":
     print("Will not remove snap!")
     time.sleep(2)
     os.system('clear')
+    
 elif inS == "3":
     print("Quiting...")
     os.system('clear')
@@ -105,7 +107,6 @@ if in2 == "yes":
         os.system("clear")
     else:
         print("Systemd not detected, unable to disable bluetooth/printing.")
-        print("You are most likely on Devuan linux witch Optibuntu does not fully suport...")
         time.sleep(5)
         os.system("clear")
 
@@ -132,7 +133,6 @@ if shutil.which("gsettings"):
 if in3 == "Yes":
     os.system('clear')
     os.system("gsettings set org.gnome.desktop.interface enable-animations false")
-    time.sleep(2)
     os.system('clear')
     
 elif in3 == "no":
