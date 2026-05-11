@@ -3,22 +3,23 @@ import time
 import sys
 import shutil
 
-# =============
-#   Optibuntu
-# =============
+# ===============
+# == Optibuntu ==
+# =============== 
 
 # info:
-# Version 1.3
+# Version 2.0
 # FOSS - AGPL 3.0 
 # made by classiccatlinux (randomnerd41).
+# status: now stable! moving to optibuntu repo...
 
 # == config ==
-os_check = True
+devmode = False
 
 # OS check
-if os_check:
+if not devmode:
     if sys.platform == "linux":
-        if shutil.which("apt"):         
+        if shutil.which("apt"):
             print("Welcome...")
             time.sleep(1)
             os.system("clear")
@@ -33,35 +34,36 @@ if os_check:
         exit()
 
 # Start
-print("===============")
-print("== Optibuntu ==")
-print("===============")
-print("v1.3 - classiccatlinux")
-in1 = input("start? (y/n): ")
-os.system('clear')
-
-if in1 == "n":
-    print("Exiting...")
-    time.sleep(1)
-    exit()
-
-elif in1 == "y":
-    print("Starting...")
-    time.sleep(1)
+if not devmode:
+    print("===============")
+    print("== Optibuntu ==")
+    print("===============")
+    print("v2.0 - classiccatlinux")
+    in1 = input("start? (y/n): ")
     os.system('clear')
-else:
-    print("Not a command at this time!")
-    time.sleep(2)
-    os.system('clear')
-    
+
+    if in1 == "n":
+        print("Exiting...")
+        time.sleep(1)
+        exit()
+
+    elif in1 == "y":
+        print("Starting...")
+        time.sleep(1)
+        os.system('clear')
+    else:
+        print("Not a command at this time!")
+        time.sleep(2)
+        os.system('clear')
+   
 # Snap
 print("== Snap ==")
-print("Removing snap will remove firefox from ubuntu!")
+print("Removing snap will remove firefox on ubuntu!")
 print("options:")
 print("1. Remove snap if its installed.")
 print("2. Keep snap if its installed.")
 print("3. quit")
-print("///////////////////")
+print("/////////////////////////////")
 inS = input("1, 2, or 3: ")
 
 if inS == "1":
@@ -130,7 +132,7 @@ if shutil.which("gsettings"):
     print("///////////////////")
     in3 = input("yes or no: ")
 
-if in3 == "Yes":
+if in3 == "yes":
     os.system('clear')
     os.system("gsettings set org.gnome.desktop.interface enable-animations false")
     os.system('clear')
@@ -165,17 +167,19 @@ elif ff == "no":
 else:
     print("Not a command at this time!")
 
-# Updating
-print("== Updating system ==")
+# Updating/other
+print("== Updating and ==")
+print("== speeding up system ==")
 print("this may take some time...")
 print("////////////////////////////////")
 time.sleep(2)
 os.system('clear')
 os.system("sudo apt update -y && sudo apt full-upgrade -y && sudo apt autoremove -y")
-time.sleep(3)
-os.system('clear')
+if shutil.which("systemctl"):
+    os.system("sudo apt install preload earlyoom -y && sudo apt install zram-tools -y && sudo systemctl enable zramswap && sudo systemctl start zramswap")    
 
 # End
+os.system("clear")
 print("===============")
 print("== Optibuntu ==")
 print("===============")
@@ -186,3 +190,4 @@ print("All done!")
 print("thank you for using Optibuntu!")
 print("You can now remove this program...")
 exit()
+
