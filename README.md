@@ -4,11 +4,13 @@ Welcome to the other branch!
 here you can find all old versions
 of Optibuntu. 
 
-**Made by classiccatlinux** (randomnerd41 on github)
+**Made by classiccatlinux** (randomnerd41 on github),
 
 AGPL 3.0 - **Free and opensource software**.
 
 # Some versions are missing
-if a version is almost just 
+if a version is almost
+
 the same as the new one it will 
-not get put in the other branch
+
+not get put in the this branch.
