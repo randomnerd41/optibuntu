@@ -8,7 +8,7 @@ import shutil
 # =============== 
 
 # info:
-# Version 2.0
+# Version 2.0_emergencypatch1
 # FOSS - AGPL 3.0 
 # made by classiccatlinux (randomnerd41).
 # status: now stable! moving to optibuntu repo...
@@ -132,20 +132,20 @@ if shutil.which("gsettings"):
     print("///////////////////")
     in3 = input("yes or no: ")
 
-if in3 == "yes":
-    os.system('clear')
-    os.system("gsettings set org.gnome.desktop.interface enable-animations false")
-    os.system('clear')
+    if in3 == "yes":
+        os.system('clear')
+        os.system("gsettings set org.gnome.desktop.interface enable-animations false")
+        os.system('clear')
     
-elif in3 == "no":
-    print("Will not disable animations.")
-    time.sleep(2)
-    os.system('clear')
+    elif in3 == "no":
+        print("Will not disable animations.")
+        time.sleep(2)
+        os.system('clear')
     
-else:
-    print("Not a command at this time!")
-    time.sleep(1)
-    exit()
+    else:
+        print("Not a command at this time!")
+        time.sleep(1)
+        os.system('clear')
 
 # Fastfetch
 print("== Fastfetch ==")
