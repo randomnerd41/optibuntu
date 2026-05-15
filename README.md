@@ -11,6 +11,8 @@ AGPL 3.0 - **Free and opensource software**.
 # Some versions are missing
 if a version is almost
 
-the same as the new one it will 
+the same as the new one 
+
+or just a bugfix, it will 
 
 not get put in the this branch.
