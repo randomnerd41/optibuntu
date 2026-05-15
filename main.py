@@ -8,7 +8,7 @@ import shutil
 # =============== 
 
 # info:
-# Version 2.0_emergencypatch1
+# Version 2.1
 # FOSS - AGPL 3.0 
 # made by classiccatlinux (randomnerd41).
 # status: now stable! moving to optibuntu repo...
@@ -38,7 +38,7 @@ if not devmode:
     print("===============")
     print("== Optibuntu ==")
     print("===============")
-    print("v2.0 - classiccatlinux")
+    print("v2.1 - classiccatlinux")
     in1 = input("start? (y/n): ")
     os.system('clear')
 
@@ -147,27 +147,7 @@ if shutil.which("gsettings"):
         time.sleep(1)
         os.system('clear')
 
-# Fastfetch
-print("== Fastfetch ==")
-print("Would you like to install fastfetch?")
-print("Options:")
-print("yes.")
-print("no.")
-print("///////////////////")
-ff = input("yes or no: ")
-
-if ff == "yes":
-    os.system("sudo apt install fastfetch -y")
-    time.sleep(2)
-    os.system('clear')
-elif ff == "no":
-    print("Will not install fastfetch.")
-    time.sleep(2)
-    os.system('clear')
-else:
-    print("Not a command at this time!")
-
-# Updating/other
+# Updating/speeding-up
 print("== Updating and ==")
 print("== speeding up system ==")
 print("this may take some time...")
@@ -183,9 +163,6 @@ os.system("clear")
 print("===============")
 print("== Optibuntu ==")
 print("===============")
-print("//////////////////////////////////////////////////////////////////////////////")
-os.system("fastfetch")
-print("//////////////////////////////////////////////////////////////////////////////")
 print("All done!")
 print("thank you for using Optibuntu!")
 print("You can now remove this program...")
