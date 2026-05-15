@@ -10,6 +10,7 @@
 
 echo "Installing Python3 and running Optibuntu..."
 sleep 3
+clear
 sudo apt update -y  && sudo apt install python3 -y
 clear
 python3 main.py
