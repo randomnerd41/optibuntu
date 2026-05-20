@@ -11,9 +11,9 @@ linux systems faster
 
 <img width="144" height="144" alt="OB-logo.png" src="https://github.com/user-attachments/assets/072771d1-c231-4e6e-98c9-31511998d753" />
 
-# Version 2.1
-**Removed fastfetch,**
-**Tweaked some stuff.**
+# Version 2.2
+**LAST VERSION**
+**very small fixes**
 
 To find other versions
 

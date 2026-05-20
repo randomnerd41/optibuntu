@@ -8,10 +8,9 @@ import shutil
 # =============== 
 
 # info:
-# Version 2.1
+# Version 2.2 - last version 
 # FOSS - AGPL 3.0 
-# made by classiccatlinux (randomnerd41).
-# status: now stable! moving to optibuntu repo...
+# made by Classiccatlinux (Randomnerd41).
 
 # == config ==
 devmode = False
@@ -38,7 +37,7 @@ if not devmode:
     print("===============")
     print("== Optibuntu ==")
     print("===============")
-    print("v2.1 - classiccatlinux")
+    print("v2.2 - Classiccatlinux")
     in1 = input("start? (y/n): ")
     os.system('clear')
 
@@ -148,9 +147,9 @@ if shutil.which("gsettings"):
         os.system('clear')
 
 # Updating/speeding-up
-print("== Updating and ==")
-print("== speeding up system ==")
-print("this may take some time...")
+print("== Updating/Speeding-up ==")
+print("Apt will install: preload, earlyoom,")
+print("zram-tools...")
 print("////////////////////////////////")
 time.sleep(2)
 os.system('clear')
@@ -167,4 +166,3 @@ print("All done!")
 print("thank you for using Optibuntu!")
 print("You can now remove this program...")
 exit()
-
