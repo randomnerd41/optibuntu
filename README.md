@@ -13,6 +13,7 @@ linux systems faster
 
 # Version 2.2
 **LAST VERSION**
+
 **very small fixes**
 
 To find other versions
@@ -65,4 +66,7 @@ chmod +x runme.sh
 ```
 # info
 FOSS - AGPL 3.0
-made by classiccatlinux (or randomnerd41 on github)
+
+made by classiccatlinux 
+
+(or randomnerd41 on github)
