@@ -1,3 +1,9 @@
+# THIS PROGRAM IS NO LONGER BEING WORKED ON!
+**I have left this program in a fully working**
+**condition, feel free to take any ammount of**
+**code from this program.**
+
+
 # Optibuntu
 A free and Open source program
 
